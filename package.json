@@ -18,9 +18,9 @@
   "author": "Greg French",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lesliesam/react-native-wheel-picker/issues"
+    "url": "https://github.com/samzmann/react-native-wheel-picker/issues"
   },
-  "homepage": "https://github.com/GregFrench/react-native-wheel-picker#readme",
+  "homepage": "https://github.com/samzmann/react-native-wheel-picker",
   "peerDependencies": {
     "prop-types": "^15.6.2",
     "react": ">=18.0",
